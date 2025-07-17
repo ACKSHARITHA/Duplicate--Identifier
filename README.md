@@ -28,8 +28,9 @@ Outputs a NumPy array for further use in analytics or preprocessing
 
 **Example:**
 
-vbnet
+
 Input : 1 0 0 3 0 2 4 2 2 2
+
 Output: [False False  True False  True False False  True  True  True]
 
  ## 📚 Use Cases
